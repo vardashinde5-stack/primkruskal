@@ -196,38 +196,6 @@ int main()
 
     return 0;
 }
-```
-
-## Sample Input
-
-```text
-Enter number of vertices: 4
-Enter number of edges: 5
-Enter edges (source destination weight):
-0 1 10
-0 2 6
-0 3 5
-1 3 15
-2 3 4
-```
-
-## Sample Output
-
-```text
-Minimum Spanning Tree using Kruskal's Algorithm:
-Edge    Weight
-2 - 3   4
-0 - 3   5
-0 - 1   10
-Minimum cost of MST = 19
-
-Minimum Spanning Tree using Prim's Algorithm:
-Edge    Weight
-0 - 3   5
-3 - 2   4
-0 - 1   10
-Minimum cost of MST = 19
-```
 
 **Note:** The order of the edges can differ between the two algorithms, but the minimum total cost is the same.
 
