@@ -308,5 +308,8 @@ Kruskal's Algorithm sorts the edges and selects those that do not create cycles,
 
 For the given sample graph, both algorithms produce a Minimum Spanning Tree with a total cost of **19**.
 
-The experiment demonstrates how two different greedy techniques can solve the Minimum Spanning Tree problem.
-output image:<img width="1000" height="620" alt="kruskalprim" src="https://github.com/user-attachments/assets/03801686-a1ef-49ef-a193-09d0dd758f54" />
+The experiment demonstrates how two different greedy techniques can solve the Minimum Spanning Tree problem. 
+
+output image
+
+:<img width="1000" height="620" alt="kruskalprim" src="https://github.com/user-attachments/assets/03801686-a1ef-49ef-a193-09d0dd758f54" />
