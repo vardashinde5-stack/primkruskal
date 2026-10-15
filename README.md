@@ -10,7 +10,6 @@ To implement Kruskal's Algorithm and Prim's Algorithm to find the Minimum Cost S
 
 ## Program
 
-```c
 #include <stdio.h>
 
 #define MAX 20
